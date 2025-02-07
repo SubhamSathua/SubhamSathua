@@ -68,7 +68,7 @@ I am a **student** passionate about **Software Development & UI/UX Design**. I e
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" width="40" height="40"/>
 </a>
 
-_(Python, Blender, and Figma: Basic projects only)_  
+_(Blender, and Figma: Basic projects only)_  
 
 
 
