@@ -23,19 +23,19 @@ I am a **student** passionate about **Software Development & UI/UX Design**. I e
 
 
 <a href="https://github.com/SubhamSathua" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px; text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/badge/-181717?style=square&logo=github&logoColor=white" style="width: 24px; height: 24px;"> GitHub: @SubhamSathua
+    <img src="https://img.shields.io/badge/-181717?style=square&logo=github&logoColor=white" style="height: 24px;"> GitHub: @SubhamSathua
 </a>  
 <br>
 <a href="https://in.linkedin.com/in/subhamsathua" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px; text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=square&logo=linkedin&logoColor=white" style="width: 24px; height: 24px;"> LinkedIn: @SubhamSathua
+    <img src="https://img.icons8.com/ios-filled/28/ffffff/linkedin.png" style="height: 24px;"> LinkedIn: @SubhamSathua
 </a>  
 <br>
 <a href="mailto:subhamksathua@gmail.com" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px; text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/badge/-D14836?style=square&logo=gmail&logoColor=white" style="width: 24px; height: 24px;"> Email: subhamksathua@gmail.com
+    <img src="https://img.shields.io/badge/-D14836?style=square&logo=gmail&logoColor=white" style="height: 24px;"> Email: subhamksathua@gmail.com
 </a>  
 <br>
 <a href="https://x.com/Subham_Sathua" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px; text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/badge/-000000?style=square&logo=x&logoColor=white" style="width: 24px; height: 24px;"> Twitter: @Subham_Sathua
+    <img src="https://img.shields.io/badge/-000000?style=square&logo=x&logoColor=white" style="height: 24px;"> Twitter: @Subham_Sathua
 </a>
 
 ---
