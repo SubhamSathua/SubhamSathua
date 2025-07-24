@@ -27,7 +27,7 @@ I am a **student** passionate about **Software Development & UI/UX Design**. I e
 </a>  
 <br>
 <a href="https://in.linkedin.com/in/subhamsathua" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px; text-decoration: none; color: inherit;">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2/ffffff" style="height: 24px;"> LinkedIn: @SubhamSathua
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="height: 24px;"> LinkedIn: @SubhamSathua
 </a>  
 <br>
 <a href="mailto:subhamksathua@gmail.com" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px; text-decoration: none; color: inherit;">
