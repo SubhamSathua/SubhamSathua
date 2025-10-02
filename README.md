@@ -14,8 +14,8 @@ BCA undergraduate with hands-on experience in backend development and web techno
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+      <!-- <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/tailwindcss/tailwindcss-plain.svg" width="40"/> -->
+      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> -->
     </td>
   </tr>
   <tr>
