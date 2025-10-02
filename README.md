@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Subham Kumar Sathua  
-### 🎓 Student | BCA | Aspiring Software Developer (Full-Stack & UI/UX)  
+### BCA undergraduate | Backend & Web Development | Spring Boot • Angular • JSP • Servlet | Java, Python, JavaScript, HTML | MySQL & DBMS | UI design with Figma | Strong foundation in OOP, data structures, and software problem-solving
 
 ---
 
 ## 👨‍💻 About Me  
-I am a **student** passionate about **Software Development & UI/UX Design**. I enjoy working on **both Front-end & Back-end** technologies. My goal is to build user-friendly, high-performance applications.  
+BCA undergraduate with hands-on experience in backend development and web technologies. Proficient in Spring Boot, Angular, JSP, Servlet, Java, Python, JavaScript, HTML, and MySQL, with a strong foundation in data structures, object-oriented programming, and software problem-solving. Skilled in designing user interfaces with Figma and applying advanced Java concepts. Seeking to contribute technical expertise and analytical skills to software development and web technology projects 
+
 
 ### **What I have learned:**
 ✅ Front-end Development → HTML, CSS, JavaScript  
