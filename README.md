@@ -10,45 +10,46 @@ BCA undergraduate with hands-on experience in backend development and web techno
   <tr>
     <td><strong>Front-end</strong></td>
     <td>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/html5/html5-original.svg" width="40"/>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/css3/css3-original.svg" width="40"/>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/javascript/javascript-original.svg" width="40"/>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/angularjs/angularjs-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
       <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/react/react-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
     </td>
   </tr>
   <tr>
     <td><strong>Back-end / Frameworks</strong></td>
     <td>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/spring/spring-original.svg" width="40"/>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/nodejs/nodejs-original.svg" width="40"/>
-      <!-- <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/express/express-original.svg" width="40"/> -->
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/java/java-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
     </td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
     <td>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/mysql/mysql-original.svg" width="40"/>
-      <!-- <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/mongodb/mongodb-original.svg" width="40"/> -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> -->
     </td>
   </tr>
   <tr>
     <td><strong>Programming Languages</strong></td>
     <td>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/java/java-original.svg" width="40"/>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/python/python-original.svg" width="40"/>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/cplusplus/cplusplus-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
     </td>
   </tr>
   <tr>
     <td><strong>Design / Tools</strong></td>
     <td>
-      <img src="https://github.com/devicons/devicon/raw/v2.17.0/icons/figma/figma-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
     </td>
   </tr>
 </table>
+
 
 
 
