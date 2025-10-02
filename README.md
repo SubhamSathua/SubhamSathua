@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Subham Kumar Sathua  
-### BCA undergraduate | Backend & Web Development | Spring Boot • Angular • JSP • Servlet | Java, Python, JavaScript, HTML | MySQL & DBMS | UI design with Figma | Strong foundation in OOP, data structures, and software problem-solving
+##### BCA undergraduate | Backend & Web Development | Spring Boot • Angular • JSP • Servlet | Java, Python, JavaScript, HTML | MySQL & DBMS | UI design with Figma | Strong foundation in OOP, data structures, and software problem-solving
 
 ---
 
@@ -7,21 +7,62 @@
 BCA undergraduate with hands-on experience in backend development and web technologies. Proficient in Spring Boot, Angular, JSP, Servlet, Java, Python, JavaScript, HTML, and MySQL, with a strong foundation in data structures, object-oriented programming, and software problem-solving. Skilled in designing user interfaces with Figma and applying advanced Java concepts. Seeking to contribute technical expertise and analytical skills to software development and web technology projects 
 
 
-### **What I have learned:**
-✅ Front-end Development → HTML, CSS, JavaScript  
-✅ UI/UX Basics → Figma  
-✅ Basics of Java, C++  
+<table>
+  <tr>
+    <td><strong>Front-end</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 
-### **What I am learning:**
-🚀 MERN Stack (MongoDB, Express, React, Node.js)  
-🚀 Back-end Development → Node.js, Java, C++  
-🚀 Exploring UI/UX Best Practices  
-🚀 Looking for open-source projects to contribute to  
+
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Back-end / Frameworks</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> -->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Design / Tools</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+    </td>
+  </tr>
+</table>
+
+
+### **Currently Learning**
+- Spring Boot, React
+- Advanced Back-end Development (Node.js, Java)
+- UI/UX Best Practices
 
 
 
 ## 📬 Connect with Me
-
 
 <a href="https://github.com/SubhamSathua" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; font-size: 16px; text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/-181717?style=square&logo=github&logoColor=white" style="height: 24px;"> GitHub: @SubhamSathua
@@ -40,37 +81,6 @@ BCA undergraduate with hands-on experience in backend development and web techno
 </a>
 
 ---
-
-## 🚀 Tech Stack & Skills
-
-### **Programming Languages**
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
-</a>
-<a href="https://isocpp.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
-</a>
-<a href="https://www.java.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="40" height="40"/>
-</a>
-
-### **Tools & Frameworks**
-<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)   -->
-
-<a href="https://www.figma.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
-</a>
-<a href="https://www.blender.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" width="40" height="40"/>
-</a>
-
-_(Blender, and Figma: Basic projects only)_  
 
 
 
